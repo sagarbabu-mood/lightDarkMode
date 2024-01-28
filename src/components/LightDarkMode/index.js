@@ -1,15 +1,15 @@
 import './index.css'
-import {Component} from 'react'
+import { Component } from 'react'
 
 class LightDarkMode extends Component {
-  state = {isDarkMode: true}
+  state = { isDarkMode: true }
 
   onClickToChangeMode = () => {
-    this.setState(prevState => ({isDarkMode: !prevState.isDarkMode}))
+    this.setState(prevState => ({ isDarkMode: !prevState.isDarkMode }))
   }
 
   render() {
-    const {isDarkMode} = this.state
+    const { isDarkMode } = this.state
     const modeClassName = isDarkMode ? 'dark-mode' : 'light-mode'
     const buttonMode = isDarkMode ? 'Light Mode' : 'Dark Mode'
 
@@ -25,6 +25,7 @@ class LightDarkMode extends Component {
             >
               {buttonMode}
             </button>
+            <h1>Changed</h1>
           </div>
         </div>
       </div>
