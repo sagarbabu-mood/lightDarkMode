@@ -1,0 +1,128 @@
+.wholeee {
+  background-color: #272727;
+
+  width: 60vw;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-style: solid;
+  margin-top: 50px;
+  border-radius: 15px;
+}
+.jobitemimage {
+  height: 50px;
+}
+.title {
+  color: white;
+  font-size: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.rating {
+  color: white;
+  margin-top: 12px;
+}
+.starimag {
+  color: yellow;
+  margin-right: 8px;
+  margin-top: 0px;
+}
+.imgandcontentdiv {
+  display: flex;
+  flex-direction: row;
+}
+.titlediv {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.ratingdiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0px;
+  height: 30px;
+}
+.jobdetailsdivone {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+}
+.leftside {
+  display: flex;
+}
+.locationdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  color: white;
+}
+.locationpara {
+  margin-left: 5px;
+}
+.des {
+  color: white;
+  font-size: 15px;
+}
+.jobdes {
+  color: white;
+  font-size: 12px;
+}
+.custom-link {
+  text-decoration: none;
+  color: none;
+}
+.againwhole {
+  height: 100%;
+  width: 100vw;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20pxs;
+}
+.skills-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+.skill-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+  width: 200px;
+  height: 50px;
+}
+.skill-image {
+  height: 40px;
+  margin-right: 15px;
+}
+.desclifeat {
+  height: 150px;
+  margin-left: 15px;
+}
+.jobjkl {
+  display: flex;
+}
+.thyuio {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 12px;
+  width: 25vw;
+}
+.againulop {
+  display: flex;
+  list-style-type: none;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border-style: solid;
+  border-color: white;
+  width: 100%;
+  flex-wrap: wrap;
+}

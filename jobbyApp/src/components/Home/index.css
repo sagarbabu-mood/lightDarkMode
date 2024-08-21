@@ -1,0 +1,24 @@
+.HomeMaindiv {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  padding: 50px;
+}
+.heading {
+  color: white;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 60px;
+}
+.para {
+  color: white;
+}
+.buttonstyle {
+  background-color: #4f46e5;
+  color: white;
+  border-style: none;
+  border-radius: 9px;
+  padding: 9px;
+  font-size: 9px;
+}

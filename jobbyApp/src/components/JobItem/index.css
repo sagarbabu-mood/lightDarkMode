@@ -1,0 +1,74 @@
+.wholeee {
+  background-color: #272727;
+  height: 100%;
+
+  width: 60vw;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.jobitemimage {
+  height: 50px;
+}
+.title {
+  color: white;
+  font-size: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.rating {
+  color: white;
+  margin-top: 12px;
+}
+.starimag {
+  color: yellow;
+  margin-right: 8px;
+  margin-top: 0px;
+}
+.imgandcontentdiv {
+  display: flex;
+  flex-direction: row;
+}
+.titlediv {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.ratingdiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0px;
+  height: 30px;
+}
+.jobdetailsdivone {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+}
+.leftside {
+  display: flex;
+}
+.locationdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  color: white;
+}
+.locationpara {
+  margin-left: 5px;
+}
+.des {
+  color: white;
+  font-size: 15px;
+}
+.jobdes {
+  color: white;
+  font-size: 12px;
+}
+.custom-link {
+  text-decoration: none;
+  color: none;
+}

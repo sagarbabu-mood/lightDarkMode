@@ -1,0 +1,27 @@
+.wholediv {
+  background-color: #272727;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.jobbyimage {
+  height: 30px;
+}
+.buttonstyle {
+  background-color: #4f46e5;
+  color: white;
+  border-style: none;
+  border-radius: 9px;
+  padding: 9px;
+  font-size: 9px;
+}
+.homepara {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+.po {
+  display: flex;
+}
